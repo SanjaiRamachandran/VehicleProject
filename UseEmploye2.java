@@ -5,7 +5,7 @@ public class UseEmploye2 {
 		Address1 a=new Address1();
 		a.doorNumber=12;
 		a.streetName="Nagar";
-		a.townName="Guindy";
+		a.townName="Ekkatuthangal";
 		a.district="Chennai";
 		a.state="TN";
 		a.pincode=679908;
